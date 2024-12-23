@@ -1,7 +1,7 @@
 # Coleção de BIOS (Ongoing)
 Compilação de BIOS para diversas plataformas de emulação.
 
-## Sony - Playstation 2
+## Sony - Playstation 2 NTSC-U
 #### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/releases/download/arquivos/PCSX2.BIOS.zip) — ([Como fazer Dump](https://pcsx2.net/docs/setup/bios))
 
 *Esta bios é otimizada para emulação, caso você esteja usando uma versão mais antiga, ou de alguma forma o PCSX2 pare de funcionar com isso aqui, não se preocupa, basta renomear o nome do arquivo para o nome do arquivo do emulador. Ex: scph5500.bin*
