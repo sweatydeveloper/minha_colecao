@@ -1,5 +1,5 @@
-# Coleção de BIOS e Códigos (Ongoing)
-Compilação de BIOS e Códigos (PNACH) para diversas plataformas de emulação.
+# Coleção de BIOS (Ongoing)
+Compilação de BIOS para diversas plataformas de emulação.
 
 ## Sony - Playstation 2 NTSC-U 
 #### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/releases/download/arquivos/PCSX2.BIOS.zip) — ([Como fazer Dump](https://pcsx2.net/docs/setup/bios))
