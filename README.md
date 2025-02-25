@@ -38,3 +38,15 @@ Compilação de BIOS para diversas plataformas de emulação.
 > Tamanho: 512 KB     
 > MD5: c53ca5908936d412331790f4426c6c33    
 > Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
+
+
+------------
+
+
+
+## Nintendo DS 
+#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/blob/main/PSXONPSP660.BIN)
+
+> Tamanho: 284 KB     
+> MD5: f40a90406c0240202eb448c78f231463    
+> Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
