@@ -10,9 +10,6 @@ Compilação de BIOS para diversas plataformas de emulação.
 > MD5: 9229988257a86d3f8fa50ff7ecdf1515     
 > Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
 
-### Na Interface do PCSX2:
-![image](https://github.com/user-attachments/assets/9a264935-a208-4713-91e9-f511722b4b5b)
-
 
 ------------
 
@@ -28,3 +25,16 @@ Compilação de BIOS para diversas plataformas de emulação.
 
 ### Na Interface do PCSX2:
 ![image](https://github.com/user-attachments/assets/cb7e4b7c-b6ad-454d-a0e4-2b98710a5a83)
+
+
+------------
+
+
+## Sony - Playstation 1 NTSC 
+#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/blob/main/PSXONPSP660.BIN)
+
+*Esta bios de PS1 é otimizada para emulação, renomeie ela para aquele usado pelo seu emulador. Por exemplo: scph5500.bin*
+
+> Tamanho: 512 KB     
+> MD5: c53ca5908936d412331790f4426c6c33    
+> Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
