@@ -1,52 +1,68 @@
-# Coleção de BIOS (Ongoing)
-Compilação de BIOS para diversas plataformas de emulação.
+<h1 align="center">Minhas Dumps de Bios</h1>
 
-## Sony - Playstation 2 NTSC-U 
-#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/releases/download/arquivos/PCSX2.BIOS.zip) — ([Como fazer Dump](https://pcsx2.net/docs/setup/bios))
+<p align="center">
+  <i>Arquivos BIOS para emuladores • Organizados por plataforma • Verificados</i>
+</p>
 
-*Esta bios é otimizada para emulação, caso você esteja usando uma versão mais antiga, ou de alguma forma o PCSX2 pare de funcionar com isso aqui, não se preocupa, basta renomear o nome do arquivo para o nome do arquivo do emulador. Ex: scph5500.bin*
+> ⚖️ **Uso responsável** – Estes arquivos são disponibilizados apenas para usuários que possuem o hardware original. A distribuição não autorizada pode violar direitos autorais.
 
-> Tamanho: 17,639 KB     
-> MD5: 9229988257a86d3f8fa50ff7ecdf1515     
-> Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
+---
 
+## 📁 PlayStation 2
 
-------------
+| NTSC-U 🇺🇸 | NTSC-J 🇯🇵 |
+|-----------|-----------|
+| **📦 Download**<br>[PCSX2.BIOS.zip](https://github.com/sweatydeveloper/minha_colecao/releases/download/arquivos/PCSX2.BIOS.zip)<br><br>**ℹ️ Detalhes**<br>• Tamanho: 17.639 KB<br>• MD5: `9229988257a86d3f8fa50ff7ecdf1515`<br>• Vídeo: NTSC-U<br>• *Renomeie para scph5500.bin se necessário* | **📦 Download**<br>[BIOS.JAPAN.zip](https://github.com/sweatydeveloper/minha_colecao/releases/download/jp/BIOS.JAPAN.zip)<br><br>**ℹ️ Detalhes**<br>• Tamanho: 20.710 KB<br>• MD5: `e4e63d360090a1acd713cbc67f4ee6c8`<br>• Vídeo: NTSC-J<br>• *Versão japonesa com cores otimizadas* |
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb7e4b7c-b6ad-454d-a0e4-2b98710a5a83" width="500" style="border-radius: 6px;">
+</p>
 
-## Sony - Playstation 2 NTSC-JP 
-#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/releases/download/jp/BIOS.JAPAN.zip)
+---
 
-*Esta bios é otimizada para emulação, sendo esta aqui a versão japonesa, trazendo consigo uma melhor compatibilidade de cores e fidelidade para jogos japoneses.*
+## 📁 PlayStation 1
 
-> Tamanho: 20,710 KB     
-> MD5: e4e63d360090a1acd713cbc67f4ee6c8    
-> Sistema de Codificação de Vídeo Primário: NTSC-JP 🇯🇵
+| NTSC-U 🇺🇸 |
+|-----------|
+| **📦 Download**<br>[PSXONPSP660.BIN](https://github.com/sweatydeveloper/minha_colecao/raw/main/PSXONPSP660.BIN)<br><br>**ℹ️ Detalhes**<br>• Tamanho: 512 KB<br>• MD5: `c53ca5908936d412331790f4426c6c33`<br>• Vídeo: NTSC-U<br>• *Pode ser renomeado conforme emulador (ex: scph5500.bin)* |
 
-### Na Interface do PCSX2:
-![image](https://github.com/user-attachments/assets/cb7e4b7c-b6ad-454d-a0e4-2b98710a5a83)
+---
 
+## 📁 Nintendo DS
 
-------------
+| NTSC-U 🇺🇸 |
+|-----------|
+| **📦 Download**<br>[NDS Bios & Firmware.zip](https://github.com/sweatydeveloper/minha_colecao/blob/main/NDS%20Bios%20%26%20Firmware.zip)<br><br>**ℹ️ Detalhes**<br>• Tamanho: 284 KB<br>• MD5: `f40a90406c0240202eb448c78f231463`<br>• Vídeo: NTSC-U<br>• *Arquivo corrigido ✓* |
 
+---
 
-## Sony - Playstation 1 NTSC 
-#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/blob/main/PSXONPSP660.BIN)
+## ⚙️ Configuração
 
-*Esta bios de PS1 é otimizada para emulação, renomeie ela para aquele usado pelo seu emulador. Por exemplo: scph5500.bin*
+1. **Download** – Baixe o arquivo da plataforma desejada.
+2. **Extrair** – Descompacte se for .zip.
+3. **Renomear** – Use o nome esperado pelo emulador (consulte tabela abaixo).
 
-> Tamanho: 512 KB     
-> MD5: c53ca5908936d412331790f4426c6c33    
-> Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
+**📂 Pastas comuns**  
+- **PCSX2** → `/bios/`  
+- **ePSXe** → `/bios/` ou raiz  
+- **DeSmuME** → diretório do emulador  
+- **MelonDS** → configurável
 
+**🔤 Nomes esperados**  
+| Emulador | BIOS | Região |
+|----------|------|--------|
+| PCSX2 | scph5500.bin | NTSC-U |
+| PCSX2 | scph5501.bin | NTSC-U |
+| PCSX2 | scph5502.bin | PAL |
+| ePSXe | scph1000.bin | NTSC |
+| DeSmuME | firmware.bin | – |
 
-------------
+---
 
+## 🔒 Verificação de integridade
 
+Compare o hash MD5 do arquivo baixado com o informado.
 
-## Nintendo DS 
-#### ⬇️ [Baixe Aqui](https://github.com/sweatydeveloper/minha_colecao/blob/main/PSXONPSP660.BIN)
-
-> Tamanho: 284 KB     
-> MD5: f40a90406c0240202eb448c78f231463    
-> Sistema de Codificação de Vídeo Primário: NTSC-U 🇺🇸
+**Windows (PowerShell)**
+```powershell
+Get-FileHash -Algorithm MD5 .\arquivo.bin
