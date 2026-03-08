@@ -42,13 +42,13 @@
 2. **Extrair** – Descompacte se for .zip.
 3. **Renomear** – Use o nome esperado pelo emulador (consulte tabela abaixo).
 
-** Pastas comuns**  
+**Pastas comuns**  
 - **PCSX2** → `/bios/`  
 - **ePSXe** → `/bios/` ou raiz  
 - **DeSmuME** → diretório do emulador  
 - **MelonDS** → configurável
 
-** Nomes esperados**  
+**Nomes esperados**  
 | Emulador | BIOS | Região |
 |----------|------|--------|
 | PCSX2 | scph5500.bin | NTSC-U |
